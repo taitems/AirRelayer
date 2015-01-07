@@ -1,0 +1,19 @@
+{
+  "name": "AirRelayer",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://taitems@github.com/taitems/AirRelayer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taitems/AirRelayer/issues"
+  },
+  "homepage": "https://github.com/taitems/AirRelayer",
+  "dependencies": {
+    "express": "x.x.x",
+    "airplay": "x.x.x"
+  }
+}
